@@ -1,0 +1,14 @@
+[
+    {
+        "url": "http://www.trt.net.tr/rss/gundem.rss",
+        "title": "Gundem"
+    },
+    {
+        "url": "http://www.trt.net.tr/rss/turkiye.rss",
+        "title": "Turkiye"
+    },
+    {
+        "url": "http://www.trt.net.tr/rss/spor.rss",
+        "title": "Spor"
+    }
+]
