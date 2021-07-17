@@ -1,7 +1,3 @@
-//
-//  ViewController.swift
-//  rssTrt
-//
 import UIKit
 
 class ViewController: UIViewController,XMLParserDelegate, UITableViewDataSource, UITableViewDelegate {
